@@ -9,7 +9,7 @@ export function Footer() {
               <img src="/images/hously-logo.svg" alt="Пространство" width={120} height={32} className="w-auto h-6" />
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
-              Архитектурная студия с 15-летним опытом. Проектируем жилые и коммерческие объекты по всей России — честно, внимательно и надолго.
+              Ассоциация Строительства и Ремонта — ремонт под ключ в Москве и Сочи с 2007 года. Квартиры, дома, коммерческая недвижимость.
             </p>
           </div>
 
@@ -45,8 +45,8 @@ export function Footer() {
             <h4 className="text-sm font-medium mb-4">Связь</h4>
             <ul className="space-y-3 text-sm text-muted-foreground">
               <li>
-                <a href="mailto:hello@studio.ru" className="hover:text-foreground transition-colors">
-                  hello@studio.ru
+                <a href="mailto:info@asr-stroy.ru" className="hover:text-foreground transition-colors">
+                  info@asr-stroy.ru
                 </a>
               </li>
               <li>
@@ -70,7 +70,7 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between gap-4 text-sm text-muted-foreground">
-          <p>© 2026 Архитектурная студия. Все права защищены.</p>
+          <p>© 2026 АСР — Ассоциация Строительства и Ремонта. Все права защищены.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-foreground transition-colors">
               Политика конфиденциальности
